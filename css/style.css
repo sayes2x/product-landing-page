@@ -2,10 +2,6 @@ html, body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
 }
-/* I'm hiding this so I can see what my nav bar looks like */
-#fcc_test_suite_indicator {
-  display: none;
-}
 header {
   position:fixed;
   top: 0px;
